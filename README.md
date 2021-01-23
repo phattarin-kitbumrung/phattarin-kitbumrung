@@ -1,3 +1,3 @@
-<coding your own life>
+coding your own life
  🎹🎼🎸🤓🦉🦄
 
