@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is mint
+## coding your own life ##
 
 <!--
 **phattarin-kitbumrung/phattarin-kitbumrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
