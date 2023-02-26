@@ -5,7 +5,6 @@ coding your own life
 
 <img align="left" alt="Profile" width="1000px" src="https://raw.githubusercontent.com/phattarin-kitbumrung/phattarin-kitbumrung/main/myprofile.png" ></img>
 
-<h3>Skills</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
